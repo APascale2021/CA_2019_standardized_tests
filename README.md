@@ -18,7 +18,6 @@ On a similar note, the ACT and SAT tests are graded on different scales. The SAT
 The primary goal of this project is to help the State of California identify which counties need additional assistance with SAT/ACT test prep materials in order to prepare the highest percent of students possible for college entrance exams.
 - A secondary analysis seeks to determine which of the two tests is more popular, and how likely students are to achieve a national benchmark on either the ACT or the SAT.
 - Lastly, this study evaluates the subjects themselves to see which counties should focus their efforts more on Math or Reading/Writing.
-<br>
 
 ## Data Dictionary
 
@@ -52,6 +51,6 @@ When comparing participation rates between the SAT and ACT tests, the data showe
 
 Finally, when the Math and Reading/Writing subject areas were examined separately, several geographic trends reappeared again. Most impressively, the Bay Area region scored highest on all subjects, in both tests. On average statewide, students also scored 20% higher on the SAT Verbal section than they did on the Math portion. And while the Southern Valley region scored lowest across all subjects in both tests, Southern California ranked a close second worst. This region includes both Los Angeles and Orange County, which have an extremely high number of enrolled students. The fact that only 36% of test-takers in Riverside County passed the national benchmark on SAT Math seems particularly low, and Los Angeles also ranked in the bottom 10 statewide for percent passed the SAT Reading/Writing benchmark.
 <br>
----
+
 ## Conclusions and Recommendations
 Overall, I would recommend the State of California focus on increasing participation in college entrance exams in rural areas, particularly in the Superior and Southern Valley regions. I also would encourage the state to lobby for more testing availability for the ACT, as students in less populous counties had a better chance of success on that test. And finally, while the number of students taking college entrance exams in the Southern California region is high, there were a few specific trouble areas that are worth looking into. In the end, what matters most is that the State of California targets its scarce resources to the right areas most in need as an effective means of improving the college-readiness of graduating seniors.
